@@ -22,7 +22,7 @@
   -->
 </p>
 
-<hr style="width: 35%; align: center;">
+<hr style="width: 10%; align: center;">
 
 <!-- Github Streak -->
 <p align="center">
