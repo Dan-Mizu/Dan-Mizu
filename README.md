@@ -8,14 +8,13 @@
   welcome to my github page. call me Dan.
 </h3>
 
-<p align="center" style="text-decoration: none;">
-  <a style="text-decoration: none;" href="https://twitter.com/dan_mizu">
+<p align="center">
+  <a href="https://twitter.com/dan_mizu">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/dannybaghdadi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  
   <!-- Instagram
   <a href="https://www.instagram.com/dan_mizu/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
