@@ -1,5 +1,8 @@
 <h3 align="center">
-  <img style="padding-right: 16px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<h3 align="center">
   Yo, call me Dan.
 </h3>
 
