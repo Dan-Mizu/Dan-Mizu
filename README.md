@@ -9,15 +9,15 @@
 </h3>
 
 <!-- Github Activity -->
-<details align="center">
-  <summary>⚡ Recent GitHub Activity</summary>
+<details align="center" style="list-style: inside;">
+  <summary>Recent Activity</summary>
   <br/>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/Dan-Mizu/Project-Virtual-Pond/pull/47) in [Dan-Mizu/Project-Virtual-Pond](https://github.com/Dan-Mizu/Project-Virtual-Pond)
-2. 💪 Opened PR [#47](https://github.com/Dan-Mizu/Project-Virtual-Pond/pull/47) in [Dan-Mizu/Project-Virtual-Pond](https://github.com/Dan-Mizu/Project-Virtual-Pond)
-3. 🎉 Merged PR [#46](https://github.com/Dan-Mizu/Project-Virtual-Pond/pull/46) in [Dan-Mizu/Project-Virtual-Pond](https://github.com/Dan-Mizu/Project-Virtual-Pond)
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#47](https://github.com/Dan-Mizu/Project-Virtual-Pond/pull/47) in [Dan-Mizu/Project-Virtual-Pond](https://github.com/Dan-Mizu/Project-Virtual-Pond)
+  2. 💪 Opened PR [#47](https://github.com/Dan-Mizu/Project-Virtual-Pond/pull/47) in [Dan-Mizu/Project-Virtual-Pond](https://github.com/Dan-Mizu/Project-Virtual-Pond)
+  3. 🎉 Merged PR [#46](https://github.com/Dan-Mizu/Project-Virtual-Pond/pull/46) in [Dan-Mizu/Project-Virtual-Pond](https://github.com/Dan-Mizu/Project-Virtual-Pond)
+  <!--END_SECTION:activity-->
 </details>
 
 <!-- Github Stats -->
