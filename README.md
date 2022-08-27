@@ -51,3 +51,13 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Dan-Mizu&theme=github-dark&hide_border=true" />
   </a>
 </p>
+
+<!-- Profile Visits -->
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=Dan-Mizu&style=for-the-badge&label=Profile+Visits" />
+  </a>
+</p>
+
+<!-- Y HYPE Hit Tracking -->
+![](https://hit.yhype.me/github/profile?user_id=15823849)
