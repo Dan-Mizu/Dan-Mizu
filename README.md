@@ -1,7 +1,10 @@
-<h3 align="center">
-  <a href="/">
+<p align="center">
+  <a>
     <img style="padding-right: 32px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
+</p>
+
+<h3 align="center">
   Yo, call me Dan.
 </h3>
 
