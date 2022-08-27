@@ -7,7 +7,7 @@
 </h3>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
+<details align="center">
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
