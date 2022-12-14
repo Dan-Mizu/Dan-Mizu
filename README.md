@@ -48,7 +48,7 @@
 <!-- Github Contribution Graph -->
 <p align="center">
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Dan-Mizu&theme=github-dark&hide_border=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&theme=github-dark&hide_border=true" />
   </a>
 </p>
 
