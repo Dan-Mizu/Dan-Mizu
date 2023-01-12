@@ -34,14 +34,14 @@
 <!-- Github Stats -->
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&layout=compact&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dan-Mizu&layout=compact&hide_border=true&theme=github_dark" />
   </a>
 </p>
 
 <!-- Github Score -->
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
   </a>
 </p>
 
