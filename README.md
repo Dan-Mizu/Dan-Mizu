@@ -80,11 +80,11 @@
 <a href="#">
 <picture>
 <source 
-  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&theme=github-dark&hide_border=true"
+  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&hide_border=true&theme=github-dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&hide_border=true"
+  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&hide_border=true&theme=minimal"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&hide_border=true" />
