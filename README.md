@@ -46,14 +46,14 @@
 <a href="#">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&langs_count=10&layout=compact&hide_border=true&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&langs_count=10&layout=compact&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Mizu&langs_count=10&layout=compact&hide_border=true" />
 </picture>
 </a>
 </p>
