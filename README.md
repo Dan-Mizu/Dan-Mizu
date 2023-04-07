@@ -26,30 +26,70 @@
 
 <!-- Github Streak -->
 <p align="center">
-  <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
+<a href="#">
+<picture>
+<source 
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</picture>
+</a>
 </p>
 
 <!-- Github Stats -->
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dan-Mizu&layout=compact&hide_border=true&theme=github_dark" />
-  </a>
+<a href="#">
+<picture>
+<source 
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dan-Mizu&layout=compact&hide_border=true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dan-Mizu&layout=compact&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dan-Mizu&layout=compact&hide_border=true" />
+</picture>
+</a>
 </p>
 
 <!-- Github Score -->
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
-  </a>
+<a href="#">
+<picture>
+<source 
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+</picture>
+</a>
 </p>
 
 <!-- Github Contribution Graph -->
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&theme=github-dark&hide_border=true" />
-  </a>
+<a href="#">
+<picture>
+<source 
+  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&theme=github-dark&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dan-Mizu&hide_border=true" />
+</picture>
+</a>
 </p>
 
 <!-- Profile Visits -->
