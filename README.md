@@ -29,14 +29,14 @@
 <a href="#">
 <picture>
 <source 
-  srcset="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Dan-Mizu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Dan-Mizu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Dan-Mizu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dan-Mizu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </picture>
 </a>
 </p>
