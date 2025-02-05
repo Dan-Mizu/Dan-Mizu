@@ -9,17 +9,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/dan_mizu">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a>
+  <a href="https://bsky.app/profile/dan.peepo.social">
+    <img src="https://img.shields.io/badge/Bluesky-0886FE?style=flat-square&logo=bluesky&logoColor=white" height=25>
   <a href="https://www.linkedin.com/in/dannybaghdadi/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linked-in&logoColor=white" height=25>
   </a>
-  <!-- Instagram
-  <a href="https://www.instagram.com/dan_mizu/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a> 
-  -->
 </p>
 
 <hr style="width: 10%; align: center;">
