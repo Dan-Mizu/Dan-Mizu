@@ -53,7 +53,7 @@
 </p>
 
 <!-- Github Score -->
-<p align="center">
+<!-- <p align="center">
 <a href="#">
 <picture>
 <source 
@@ -67,7 +67,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-Mizu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
 </picture>
 </a>
-</p>
+</p> -->
 
 <!-- Github Contribution Graph -->
 <p align="center">
